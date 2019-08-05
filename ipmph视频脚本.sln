@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ipmph视频脚本", "PythonApplication2\ipmph视频脚本.pyproj", "{4D7C2D86-608F-4188-9E15-963D8CFF5F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7C2D86-608F-4188-9E15-963D8CFF5F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7C2D86-608F-4188-9E15-963D8CFF5F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B327C24A-7580-4A94-83F0-8D77DB399213}
+	EndGlobalSection
+EndGlobal
